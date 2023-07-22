@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "dethz",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": "minecraft:cobbled_deepslate",
+  "experience": 1,
+  "cookingtime": 180
+}
