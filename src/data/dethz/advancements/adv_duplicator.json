@@ -4,7 +4,7 @@
       "Alchemy Based": {
           "trigger": "minecraft:recipe_unlocked",
           "conditions": {
-              "recipe": "dethz:alchemy_duplicator"
+              "recipe": "dethz:a__duplicator"
           }
       }
   },
