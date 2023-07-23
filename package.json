@@ -8,5 +8,8 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "zip-a-folder": "^2.0.0"
+  },
+  "scripts": {
+    "build": "node build.js"
   }
 }
