@@ -1,0 +1,12 @@
+{
+  "name": "dethz-datapack",
+  "version": "1.0.3",
+  "main": "scripts/build.js",
+  "repository": "https://github.com/dont-tattled-on-me/dethz-datapack.git",
+  "author": "Suphakit P. <me@suphakit.net>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "zip-a-folder": "^2.0.0"
+  }
+}
