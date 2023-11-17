@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "dupTemplate",
+  "ingredient": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "result": "minecraft:wild_armor_trim_smithing_template",
+  "count": 2
+}

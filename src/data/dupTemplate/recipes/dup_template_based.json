@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ddup",
+  "ingredient": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "result": "minecraft:netherite_upgrade_smithing_template",
+  "count": 2
+}
