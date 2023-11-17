@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ddup",
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": "minecraft:coal",
+  "count": 4
+}

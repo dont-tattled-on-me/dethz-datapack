@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ddup",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": "minecraft:netherite_ingot",
+  "count": 2
+}
