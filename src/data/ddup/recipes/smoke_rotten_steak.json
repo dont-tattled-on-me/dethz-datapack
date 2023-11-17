@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "group": "dethz",
+  "group": "ddup",
   "ingredient": {
     "item": "minecraft:rotten_flesh"
   },

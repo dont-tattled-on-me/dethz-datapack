@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "dethz",
+  "group": "ddup",
   "ingredients": [
     {
       "item": "minecraft:netherite_scrap"

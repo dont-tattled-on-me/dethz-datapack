@@ -1,6 +1,6 @@
 {
   "type": "minecraft:blasting",
-  "group": "dethz",
+  "group": "ddup",
   "ingredient": {
     "item": "minecraft:netherrack"
   },
