@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "item": "minecraft:gold_pickaxe",
+    "count": 1
+  }
+}

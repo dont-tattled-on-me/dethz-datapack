@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_axe",
+    "count": 1
+  }
+}

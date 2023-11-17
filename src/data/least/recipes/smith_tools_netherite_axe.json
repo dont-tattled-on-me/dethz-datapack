@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "minecraft:netherite_axe",
+    "count": 1
+  }
+}
