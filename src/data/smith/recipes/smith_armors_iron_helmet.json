@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "minecraft:leather_helmet"
+  },
+  "addition": {
+    "item": "minecraft:iron"
+  },
+  "result": {
+    "item": "minecraft:iron_helmet",
+    "count": 1
+  },
+  "group": "smith_armors"
+}

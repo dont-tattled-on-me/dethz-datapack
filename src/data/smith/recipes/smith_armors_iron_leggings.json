@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {},
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "addition": {
+    "item": "minecraft:iron"
+  },
+  "result": {
+    "item": "minecraft:iron_leggings",
+    "count": 1
+  },
+  "group": "smith_armors"
+}
