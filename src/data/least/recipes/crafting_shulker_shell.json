@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["i", "P"],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:shulker_shell",
+    "count": 1
+  },
+  "group": "least"
+}
