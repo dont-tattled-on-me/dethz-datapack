@@ -11,7 +11,7 @@
     "item": "minecraft:gold_ingot"
   },
   "result": {
-    "item": "minecraft:gold_helmet",
+    "item": "minecraft:golden_helmet",
     "count": 1
   },
   "group": "smith_armors"

@@ -4,7 +4,7 @@
     "item": "minecraft:diamond"
   },
   "base": {
-    "item": "minecraft:gold_chestplate"
+    "item": "minecraft:golden_chestplate"
   },
   "addition": {
     "item": "minecraft:diamond"

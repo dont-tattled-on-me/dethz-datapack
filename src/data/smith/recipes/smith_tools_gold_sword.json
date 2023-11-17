@@ -10,7 +10,7 @@
     "item": "minecraft:gold_ingot"
   },
   "result": {
-    "item": "minecraft:gold_sword",
+    "item": "minecraft:golden_sword",
     "count": 1
   },
   "group": "smith_tools"
