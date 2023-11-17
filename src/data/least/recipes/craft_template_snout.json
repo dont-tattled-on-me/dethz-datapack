@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["###", "N", "G"],
+  "pattern": ["###", " N ", " G "],
   "key": {
     "#": {
       "item": "minecraft:netherrack"

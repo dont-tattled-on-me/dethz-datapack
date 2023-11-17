@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["#", "N", "CCC"],
+  "pattern": [" # ", " N ", "CCC"],
   "key": {
     "#": {
       "item": "minecraft:egg"

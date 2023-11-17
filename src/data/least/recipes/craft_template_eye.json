@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["#", "N", "SSS"],
+  "pattern": [" # ", " N ", "SSS"],
   "key": {
     "#": {
       "item": "minecraft:ender_eye"
