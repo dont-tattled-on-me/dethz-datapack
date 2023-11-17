@@ -1,10 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:gold_ingot"
+  },
   "base": {
     "item": "minecraft:iron_boots"
   },
   "addition": {
-    "item": "minecraft:gold"
+    "item": "minecraft:gold_ingot"
   },
   "result": {
     "item": "minecraft:gold_boots",

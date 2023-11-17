@@ -1,11 +1,13 @@
 {
   "type": "minecraft:smithing_transform",
-
+  "template": {
+    "item": "minecraft:iron_ingot"
+  },
   "base": {
     "item": "minecraft:leather_chestplate"
   },
   "addition": {
-    "item": "minecraft:iron"
+    "item": "minecraft:iron_ingot"
   },
   "result": {
     "item": "minecraft:iron_chestplate",

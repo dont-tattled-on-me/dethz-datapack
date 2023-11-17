@@ -1,5 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:diamond"
+  },
   "base": {
     "item": "minecraft:gold_helmet"
   },
