@@ -10,5 +10,6 @@
   "result": {
     "item": "minecraft:diamond_shovel",
     "count": 1
-  }
+  },
+  "group": "smith_tools"
 }

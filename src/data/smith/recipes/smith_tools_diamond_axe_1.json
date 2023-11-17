@@ -10,5 +10,6 @@
   "result": {
     "item": "minecraft:diamond_axe",
     "count": 1
-  }
+  },
+  "group": "smith_tools"
 }

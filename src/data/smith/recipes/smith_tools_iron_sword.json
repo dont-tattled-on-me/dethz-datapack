@@ -10,5 +10,6 @@
   "result": {
     "item": "minecraft:iron_sword",
     "count": 1
-  }
+  },
+  "group": "smith_tools"
 }

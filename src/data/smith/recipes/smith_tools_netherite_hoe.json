@@ -10,5 +10,6 @@
   "result": {
     "item": "minecraft:netherite_hoe",
     "count": 1
-  }
+  },
+  "group": "smith_tools"
 }
