@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["O#O", "ONO", "CCC"],
+  "key": {
+    "#": {
+      "item": "minecraft:crossbow"
+    },
+    "O": {
+      "item": "minecraft:oak_fence"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:sentry_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}

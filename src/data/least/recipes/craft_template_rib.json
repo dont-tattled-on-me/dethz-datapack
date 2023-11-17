@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["N#N", "#C#", "N#N"],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "C": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "item": "minecraft:rib_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#", "N", "CCC"],
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "C": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "item": "minecraft:host_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}

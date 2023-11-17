@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#", "N", "SSS"],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_eye"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "S": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:eye_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}

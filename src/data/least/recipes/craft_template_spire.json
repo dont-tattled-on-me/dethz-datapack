@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#", "N", "#"],
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_shell"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "item": "minecraft:spire_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}

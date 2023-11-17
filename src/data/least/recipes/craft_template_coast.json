@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "SNS", "SWS"],
+  "key": {
+    "#": {
+      "item": "minecraft:map"
+    },
+    "N": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:coast_armor_trim_smithing_template",
+    "count": 1
+  },
+  "group": "least"
+}
