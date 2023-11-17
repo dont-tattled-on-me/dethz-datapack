@@ -1,6 +1,6 @@
 {
   "type": "minecraft:campfire_cooking",
-  "group": "ddup",
+  "group": "least",
   "ingredient": {
     "item": "minecraft:rotten_flesh"
   },

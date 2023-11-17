@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "group": "ddup",
+  "group": "least",
   "ingredient": {
     "item": "minecraft:rotten_flesh"
   },

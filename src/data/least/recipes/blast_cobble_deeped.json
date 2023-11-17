@@ -1,6 +1,6 @@
 {
   "type": "minecraft:blasting",
-  "group": "ddup",
+  "group": "least",
   "ingredient": {
     "item": "minecraft:cobblestone"
   },
