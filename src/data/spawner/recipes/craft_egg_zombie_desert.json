@@ -12,5 +12,6 @@
   "result": {
     "item": "minecraft:husk_spawn_egg",
     "count": 1
-  }
+  },
+  "group": "spawn"
 }

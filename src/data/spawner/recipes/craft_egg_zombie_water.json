@@ -11,5 +11,6 @@
   "result": {
     "item": "minecraft:drowned_spawn_egg",
     "count": 1
-  }
+  },
+  "group": "spawn"
 }
