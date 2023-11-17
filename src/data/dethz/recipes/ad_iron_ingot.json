@@ -1,9 +1,0 @@
-{
-  "type": "crafting_shapeless",
-  "ingredients": [
-    { "item": "minecraft:structure_block" },
-    { "item": "minecraft:iron_ingot" }
-  ],
-  "result": { "item": "minecraft:iron_ingot", "count": 2 },
-  "group": "dethz"
-}

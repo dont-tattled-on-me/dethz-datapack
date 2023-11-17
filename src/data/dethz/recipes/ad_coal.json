@@ -1,9 +1,0 @@
-{
-  "type": "crafting_shapeless",
-  "ingredients": [
-    { "item": "minecraft:structure_block" },
-    { "item": "minecraft:coal" }
-  ],
-  "result": { "item": "minecraft:coal", "count": 4 },
-  "group": "dethz"
-}

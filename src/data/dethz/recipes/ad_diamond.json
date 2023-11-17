@@ -1,9 +1,0 @@
-{
-  "type": "crafting_shapeless",
-  "ingredients": [
-    { "item": "minecraft:structure_block" },
-    { "item": "minecraft:diamond" }
-  ],
-  "result": { "item": "minecraft:diamond", "count": 2 },
-  "group": "dethz"
-}
