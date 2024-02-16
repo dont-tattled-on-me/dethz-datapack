@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:chainmail_leggings"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings",
+    "count": 1
+  },
+  "group": "smith_tools"
+}
